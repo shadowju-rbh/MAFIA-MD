@@ -17,9 +17,9 @@
 
 <p align="center">
   <a href="https://github.com/MRC-Tech999">
-    <img title="Author" src="https://img.shields.io/badge/Author-EMPEROR%20SUKUNA-ff004d?style=for-the-badge&logo=github&logoColor=white" />
+    <img title="Author" src="https://img.shields.io/badge/Author-MARC%20TECH-ff004d?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://whatsapp.com/channel/0029Vb65QuI4IBh7NdUQCq3G">
+  <a href="https://whatsapp.com/channel/0029Vb6J7O684Om8DdNfvL2N">
     <img title="Join WhatsApp Channel" src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
